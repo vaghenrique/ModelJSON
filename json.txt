@@ -1,0 +1,12 @@
+{
+    "device": {
+        "id": "D1",
+        "type": "TemperatureSensor",
+        "sensors": [
+            {
+                "id": "S1",
+                "measurement": 23.5
+            }
+        ]
+    }
+}
